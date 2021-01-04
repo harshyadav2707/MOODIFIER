@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "moodifier"
+  "defaultProject": "moodifier",
+  "cli": {
+    "analytics": "d96cf8b3-214d-4385-b242-1d386fa3e78f"
+  }
 }
